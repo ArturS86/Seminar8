@@ -12,4 +12,4 @@ int result = two % 10;
 Console.Write(result);
 }
 else
-Console.WriteLine("ввели не трехзначное число: ");
+Console.WriteLine("ввели не трехзначное число");
